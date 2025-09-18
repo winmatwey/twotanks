@@ -1,7 +1,8 @@
 # TwoTanks
 A light-weight game in Scratch.
-Game port in HTML. You can play with friend!
+Game port in HTML. You can play with friend! 
 Also you can see code of this game.
+Gameplay:
 # This project is not currently being developed :(
 
 # ENJOY!
