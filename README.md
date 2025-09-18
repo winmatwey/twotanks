@@ -1,3 +1,5 @@
 # TwoTanks
 A light-weight game in Scratch
-# THIS GAME CREATED BY WINMATWEY
+Game port in HTML. You can play with friend!
+Also you can see code of this game.
+# ENJOY!
