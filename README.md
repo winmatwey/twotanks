@@ -1,2 +1,3 @@
-# twotanks
-a light-weight game in Scratch
+# TwoTanks
+A light-weight game in Scratch
+#THIS GAME CREATED BY WINMATWEY
